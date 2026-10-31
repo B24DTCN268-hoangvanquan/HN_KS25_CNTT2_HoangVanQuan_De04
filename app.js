@@ -106,6 +106,8 @@ while (true) {
             console.log("Thoát chương trình!");
             break;
 
+            
+
         default:
             console.log("Lựa chọn không hợp lệ! Vui lòng nhập lại.");
             break;
